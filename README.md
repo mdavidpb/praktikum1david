@@ -4,4 +4,4 @@
 ![alt text](https://github.com/mdavidpb/praktikum1david/blob/master/latihan3.PNG)
 ![alt text](https://github.com/mdavidpb/praktikum1david/blob/master/latihan4.PNG)
 ![alt text](https://github.com/mdavidpb/praktikum1david/blob/master/latihan5.PNG)
-![alt text](https://github.com/mdavidpb/praktikum1david/blob/master/variable_hasil.PNG)
+![alt text](https://github.com/mdavidpb/praktikum1david/blob/master/variabel_hasil.PNG)
